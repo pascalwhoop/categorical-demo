@@ -1,5 +1,6 @@
 .DS_Store
 __data__/
+*.pickle
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -103,3 +104,4 @@ ENV/
 # mypy
 .mypy_cache/
 .idea
+*.dump
